@@ -1,0 +1,1 @@
+"0","boxplot(median/1000 ~ major_category, data = college, main = ""Income vs. Major"", ylab = ""Median income [thousands of USD]"", xlab = ""Major Category"")"
